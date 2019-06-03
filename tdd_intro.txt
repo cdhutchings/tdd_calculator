@@ -1,0 +1,25 @@
+Testing and TDD
+--------------
+
+Testing:
+
+- Checks to see if your code works
+- Set objectives and metrics
+- Know when your project is finished (Definition of Done)
+- Code maintainability
+- Increases robustness
+- Reduces technical debt
+
+Types of test:
+
+Unit Test: Smallest test used for functions
+Integration Test: Tests that the system can be properly used and does what it is supposed to do
+
+TDD:
+
+- Test --> Code --> Write --> Test etc.
+
+In general: Write Test --> Do minimum to pass test --> Refractor --> <repeat>
+
+This prevents you from expending effort doing things outside of your scope
+
